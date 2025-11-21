@@ -1,3 +1,4 @@
-6cf2d30 (HEAD -> main, origin/main, origin/HEAD) Task 1.2
+9a076b4 (HEAD -> main) Task 2.1
+6cf2d30 (origin/main, origin/HEAD) Task 1.2
 3cde994 Task 1.1
 3c4e6c1 Initial commit
